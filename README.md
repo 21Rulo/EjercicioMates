@@ -18,7 +18,7 @@ Este proyecto es una aplicación web interactiva diseñada para poner a prueba t
 ## Instalación
 
 1. Clona este repositorio:
-   git clone https://github.com/tu-usuario/ejercicio-matematico.git
+   git clone https://github.com/21Rulo/EjercicioMates.git
 
 2. Abre el archivo index.html en tu navegador.
 
