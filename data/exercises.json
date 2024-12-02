@@ -1,0 +1,52 @@
+[
+    {
+        "question": "5 + 3",
+        "correctAnswer": 8,
+        "options": [8, 7, 10, 6]
+    },
+    {
+        "question": "10 - 4",
+        "correctAnswer": 6,
+        "options": [6, 5, 7, 8]
+    },
+    {
+        "question": "7 * 2",
+        "correctAnswer": 14,
+        "options": [14, 12, 15, 13]
+    },
+    {
+        "question": "12 / 4",
+        "correctAnswer": 3,
+        "options": [3, 2, 4, 5]
+    },
+    {
+        "question": "9 + 6",
+        "correctAnswer": 15,
+        "options": [15, 14, 16, 13]
+    },
+    {
+        "question": "8 * 5",
+        "correctAnswer": 40,
+        "options": [40, 35, 45, 50]
+    },
+    {
+        "question": "14 - 7",
+        "correctAnswer": 7,
+        "options": [7, 8, 6, 5]
+    },
+    {
+        "question": "20 / 5",
+        "correctAnswer": 4,
+        "options": [4, 3, 5, 6]
+    },
+    {
+        "question": "11 + 12",
+        "correctAnswer": 23,
+        "options": [23, 21, 24, 25]
+    },
+    {
+        "question": "6 * 3",
+        "correctAnswer": 18,
+        "options": [18, 16, 20, 22]
+    }
+]

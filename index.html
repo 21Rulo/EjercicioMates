@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio Matemático</title>
+    <link rel="stylesheet" href="/styles/styles.css">
+</head>
+<body>
+        <!-- Pantalla de bienvenida -->
+    <div id="welcome-screen" class="screen active">
+        <h1>¡Prepárate para resolver ejercicios matemáticos!</h1>
+        <button onclick="startQuiz()">Comenzar</button>
+    </div>
+
+    <!-- Pantalla de ejercicios -->
+    <div id="exercise-screen" class="screen">
+        <h1>Resuelve la siguiente operación</h1>
+        <div id="exercise-container">
+            <p id="exercise">Cargando ejercicio...</p>
+            <div id="options-container"></div>
+        </div>
+        <p id="result-message"></p>
+        <!--<p id="timer">Tiempo restante: 10s</p> -->
+        <div id="timer-container">
+            <div id="timer-bar"></div>
+        </div>
+    </div>
+
+    <!-- Pantalla de resultados -->
+    <div id="results-screen" class="screen">
+        <h1>Resultados Finales</h1>
+        <p id="correct-count"></p>
+        <p id="incorrect-count"></p>
+        <button onclick="restartQuiz()">Reiniciar</button>
+    </div>
+
+    <script src="/scripts/script.js"></script>
+</body>
+</html>
+
